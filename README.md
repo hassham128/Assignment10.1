@@ -1,4 +1,4 @@
-# Assignment10.1
+# Assignment 10.1
 Part 1:
 The following class is called Students and the purpose of this class is to be able to take in objects, in this case the objects are Students. We will be using those objects to get informaiton about the Students for example their names and ID numbers.
 To start off, there is one class variable and it is called student_count this variable is pretty self explanitory as it is responsible for keeping track for the number of objects (Students) that are being assigned.
